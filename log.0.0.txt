@@ -1,0 +1,4 @@
+мар. 23, 2024 1:03:02 PM core.RunCalculate main
+INFO: Method RunCalculate in core package started
+мар. 23, 2024 1:20:28 PM core.RunCalculate main
+INFO: Method RunCalculate in core package started
